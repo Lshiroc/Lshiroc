@@ -1,4 +1,4 @@
-### Hi there 👋
+### Technologies I use
 [![My Skills](https://skillicons.dev/icons?i=js,react,next,tailwindcss,sass,html,css)](https://skillicons.dev)
 <!--
 **Lshiroc/Lshiroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
