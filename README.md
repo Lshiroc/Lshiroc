@@ -1,7 +1,7 @@
 ### Technologies I use
 [![My Skills](https://skillicons.dev/icons?i=js,react,next,tailwindcss,sass,html,css)](https://skillicons.dev)
 
-[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/light/Lshiroc)](https://zeynalmardanli-leetcode-stats.vercel.app/dark/Lshiroc)
+[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/light/Lshiroc)](https://github.com/Lshiroc/leetcode-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lshiroc&layout=compact)
 
 <!--
